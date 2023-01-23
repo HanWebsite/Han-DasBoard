@@ -109,7 +109,7 @@ function waitAndResponce(inputText) {
             break;
         default:
             setTimeout(() => {
-                sendTextMessage("Soory Gabisa Ya😢<br>Ketik 'han' Baru Bisa.");
+                sendTextMessage("Sorry Gabisa Ya😢<br>ketik yang ada di list kak");
             }, 2000);
             break;
     }
